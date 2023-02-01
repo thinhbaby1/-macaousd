@@ -1,0 +1,2 @@
+# -macaousd
+@macaousd
